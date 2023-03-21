@@ -16,11 +16,11 @@ Basemodel result can see [QIA-Hackathon2023 | Kaggle | Leaderboard](https://www.
 This code is just basemodel, So It is not correct.
 
 
-==================================================================================================
+```
 In my opinion, I think Phase 1 is not good task Because It is hard to recognition personality only 1 sentence. 
 
 So in phase 2, We will give other task that is not same as phase 1 task maybe.
-
+```
 
 
 
